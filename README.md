@@ -1,5 +1,5 @@
 # To-Do-Node-Js
-This is a simple To-Do application developed using 
+This is a simple To-Do application developed using nodejs , express and mongodb.
 # Node Js
 Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 # Express framework
