@@ -1,7 +1,7 @@
 const express = require('express')
 const bodyParser = require('body-parser')
 const app = express()
-const connectionstring = "mongodb+srv://Saad_Ahamed:9345014709@cluster0.pb9ff.mongodb.net/messages?retryWrites=true&w=majority";
+const connectionstring = "";
 const mongoose = require("mongoose");
 mongoose.set("useFindAndModify", false);
 mongoose.connect(connectionstring, { useNewUrlParser: true }, () => {});
