@@ -18,26 +18,26 @@ npm run dev
 
 # Screenshots of the Application
 
-Application UI
+# Application UI
 
-![]("https://drive.google.com/file/d/1PlO0HUjbqssRkOV1tIkVbTukB7jjb234/view?usp=sharing")
+<img src="/Screenshots/1%20Application.png">
 
-<!-- Do we need this really ? Use <img> tag for images in markdown -->
 Create Operation
 
-https://ibb.co/DkVsGwc
+<img src="/Screenshots/2%20Create.png">
 
-Read Operaration
+# Read Operaration
 
-https://ibb.co/bWcDMW9
+<img src="/Screenshots/3%20Read.png">
 
-Update Operation
+# Update Operation
 
-https://ibb.co/t4nCb9V
+<img src="/Screenshots/4%20Update.png">
 
-Delete Operation
+# Delete Operation
 
-https://ibb.co/1qWC4kZ
+<img src="/Screenshots/5%20Delete.png">
 
 
-Happy Coding ! ✌
+
+                                                                  Happy Coding ! ✌
