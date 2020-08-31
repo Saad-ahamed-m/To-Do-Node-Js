@@ -1,28 +1,20 @@
 # To-Do-Node-Js
 This is a simple To-Do application developed using nodejs , express and mongodb.
-# Node Js
-Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
-# Express framework
-Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
-# Mongo DB
-MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
 
-# About the Application
+## Prerequisites
+Install the newest Nodejs version on your machine.
 
-This application performs CRUD (Create , Read , Update , Delete) operations on the user data.
+## Getting Started
 
-Install the latest version of node js from https://nodejs.org/en/
+# Create a MongoDB Cloud Instance
+[Get the connection_string](https://www.mongodb.com)
 
-The following are the necessary commands to install the modules
+Copy the CONNECTION_STRING value to `.env` file
 
-npm install express
-npm install mongodb
-npm install mongoose
-npm install ejs
-
-Create an account in mongodb atlas and give update the "connection string" value in "index.js" file.
-
-"node index.js" is used to run the application
+```
+npm install 
+npm run dev
+```
 
 # Screenshots of the Application
 
@@ -30,6 +22,7 @@ Application UI
 
 ![]("https://drive.google.com/file/d/1PlO0HUjbqssRkOV1tIkVbTukB7jjb234/view?usp=sharing")
 
+<!-- Do we need this really ? Use <img> tag for images in markdown -->
 Create Operation
 
 https://ibb.co/DkVsGwc
@@ -45,7 +38,6 @@ https://ibb.co/t4nCb9V
 Delete Operation
 
 https://ibb.co/1qWC4kZ
-
 
 
 Happy Coding ! ✌
