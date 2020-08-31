@@ -24,4 +24,28 @@ Create an account in mongodb atlas and give update the "connection string" value
 
 "node index.js" is used to run the application
 
+# Screenshots of the Application
+
+Application UI
+
+https://ibb.co/qpQXn1c 
+
+Create Operation
+
+https://ibb.co/DkVsGwc
+
+Read Operaration
+
+https://ibb.co/bWcDMW9
+
+Update Operation
+
+https://ibb.co/t4nCb9V
+
+Delete Operation
+
+https://ibb.co/1qWC4kZ
+
+
+
 Happy Coding ! ✌
