@@ -26,26 +26,26 @@ Create an account in mongodb atlas and give update the "connection string" value
 
 # Screenshots of the Application
 
-Application UI
+# Application UI
 
 <img src="/Screenshots/1%20Application.png">
 
-Create Operation
+# Create Operation
 
 <img src="/Screenshots/2%20Create.png">
 
-Read Operaration
+# Read Operaration
 
 <img src="/Screenshots/3%20Read.png">
 
-Update Operation
+# Update Operation
 
 <img src="/Screenshots/4%20Update.png">
 
-Delete Operation
+# Delete Operation
 
 <img src="/Screenshots/5%20Delete.png">
 
 
 
-                                                                 Happy Coding ! ✌
+                                                                  Happy Coding ! ✌
