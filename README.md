@@ -28,7 +28,7 @@ Create an account in mongodb atlas and give update the "connection string" value
 
 Application UI
 
-![](https://ibb.co/qpQXn1c.png) 
+<img src="https://ibb.co/qpQXn1c">
 
 Create Operation
 
