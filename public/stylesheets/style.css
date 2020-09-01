@@ -24,8 +24,150 @@ body {
     height: fit-content;
 }
 
+.todo-container-choice {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    padding: 20px;
+    width: 400px;
+    transform: translate(-50%, -50%);
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 300px;
+}
+
+.todo-container-login {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    padding: 20px;
+    width: 400px;
+    transform: translate(-50%, -50%);
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 325px;
+}
+
+.todo-container-register {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    padding: 20px;
+    width: 400px;
+    transform: translate(-50%, -50%);
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 300px;
+}
+
+.todo-container-choice h2 {
+    padding: 10px;
+    font-family: 'Candal', sans-serif;
+    font-size: 2em;
+}
+
+.todo-container-login h2 {
+    padding: 10px;
+    font-family: 'Candal', sans-serif;
+    font-size: 2em;
+}
+
+.todo-container-login h3 {
+    padding: 10px;
+    font-family: 'Candal', sans-serif;
+}
+
+.todo-container-register h2 {
+    padding: 10px;
+    font-family: 'Candal', sans-serif;
+    font-size: 2em;
+}
+
+.todo-container-register h3 {
+    padding: 10px;
+    font-family: 'Candal', sans-serif;
+}
+
+.todo-container-choice button {
+    width: 150px;
+    font-family: 'Candal', sans-serif;
+    font-size: 1.5em;
+    margin-left: -20px;
+}
+
+button {
+    cursor: pointer;
+}
+
+.todo-container-login button {
+    width: 85px;
+    font-family: 'Candal', sans-serif;
+    font-size: 1.2em;
+    margin-left: -1px;
+}
+
+.todo-container-register button {
+    width: 85px;
+    font-family: 'Candal', sans-serif;
+    font-size: 1.2em;
+    margin-left: -1px;
+}
+
+.todo-header input {
+    width: 100%;
+    border: none;
+    height: 40px;
+    border-radius: 2px;
+    font-family: 'Candal', sans-serif;
+}
+
+.todo-header ::placeholder {
+    text-align: center;
+}
+
+.todo-header-login input {
+    width: 100%;
+    border: none;
+    height: 40px;
+    border-radius: 2px;
+    font-family: 'Candal', sans-serif;
+}
+
+.todo-header-login ::placeholder {
+    text-align: center;
+}
+
+.todo-header-register input {
+    width: 100%;
+    border: none;
+    height: 40px;
+    border-radius: 2px;
+    font-family: 'Candal', sans-serif;
+}
+
+.todo-header-register ::placeholder {
+    text-align: center;
+}
+
 .todo {
     width: 400px;
+    height: fit-content;
+}
+
+.todo-choice {
+    width: 100px;
     height: fit-content;
 }
 
@@ -51,6 +193,25 @@ body {
     padding: 5px;
     font-family: 'Candal', sans-serif;
     background-color: rgb(51, 212, 100);
+}
+
+.todo-header-login button {
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    font-family: 'Candal', sans-serif;
+    background-color: rgb(51, 212, 100);
+}
+
+.todo-header-register button {
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    font-family: 'Candal', sans-serif;
+    background-color: rgb(51, 212, 100);
+    width: 100px;
 }
 
 .todo-container ul {
